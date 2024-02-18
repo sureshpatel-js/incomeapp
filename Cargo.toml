@@ -16,5 +16,5 @@ slint-build = "1.4"
 
 [package.metadata.bundle]
 name = "Income Divider"
-identifier = "io.github.sureshpatel-js.profit-first-income-calculator-desktop"
+identifier = "io.github.sureshpatel-js.incomeapp"
 
